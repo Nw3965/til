@@ -1,4 +1,5 @@
 Markdown記法チートシート
-https://blog.serverworks.co.jp/tech/2020/05/18/post-85248/
+https://gist.github.com/mignonstyle/083c9e1651d7734f84c99b8cf49d57fa#file-markdown-cheatsheet-md
+
 
 -
