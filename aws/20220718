@@ -1,2 +1,9 @@
 Amazon EBS でスナップショットを定期的に保存しておく方法のまとめ
 https://qiita.com/shunsakai/items/2b82adedef2ffd86336b
+https://docs.aws.amazon.com/ja_jp/Route53/latest/DeveloperGuide/routing-policy.html#routing-policy-weighted
+https://docs.aws.amazon.com/ja_jp/kms/latest/developerguide/services-s3.html
+https://blog.serverworks.co.jp/tech/2018/08/10/cloudformation-stackset-ca/
+https://dev.classmethod.jp/articles/introducing-cloudformation-stacksets/
+https://docs.aws.amazon.com/ja_jp/AWSCloudFormation/latest/UserGuide/what-is-cfnstacksets.html
+https://qiita.com/kopkunka55/items/763655203054c69a0cac
+https://dev.classmethod.jp/articles/implement-route53-routing-for-begineer/#toc-3
